@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "2e451425c5a5118a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed3c469280dc1f43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27d7189c0c12b8ed",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              },
+              "icon": "lucide-file",
+              "title": "Vault"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af75789f82dd63b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cf9ee64a13db202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0f9db21de7e8171",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d352af0972105694",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6ae7876fe6c69665",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d752d1fe4578900e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbdb3d9213d5eb4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "443241795ea45490",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe292885d1eff246",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "22c5b718a1142591",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ba742bc46094605c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c0953aeb7f08f407",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "27d7189c0c12b8ed",
+  "lastOpenFiles": [
+    "Vault.md",
+    "Getting Started/Personalizing your Spaces/Styling and Layout.md",
+    "Getting Started/Personalizing your Spaces/Personalizing your Spaces.md",
+    "Getting Started/Organizing Files/Labels.md",
+    "Getting Started/Organizing Files/Organizing Files.md",
+    "Getting Started/Under the Hood.md",
+    "Getting Started/Installing make.md.md",
+    "Getting Started/But why.md",
+    "Getting Started/Getting Started.md",
+    "Getting Started/Lists and Databases/Lists and Databases.md",
+    "Getting Started/Lists and Databases/Contexts.md",
+    "Tags"
+  ]
+}

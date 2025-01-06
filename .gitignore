@@ -1,2 +1,4 @@
 
 .DS_Store
+*.mdc
+.obsidian/plugins/make-md/Spaces.mdb
